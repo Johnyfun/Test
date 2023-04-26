@@ -1,0 +1,9 @@
+/* This is a single-line comment */
+#head2 {
+    text-align: center;
+    color: red;
+}
+* {
+    text-align: center;
+    color: yellowgreen;
+}
